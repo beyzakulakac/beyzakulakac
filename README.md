@@ -1,4 +1,4 @@
-merhaba ben beyza. elektronik ve haberleşme 2. sınıf öğrencisiyim. yazdığım kodlar ve yaptığım projeler bu profilde yer alıyor. 
+merhaba ben beyza. elektronik ve haberleşme 2. sınıf öğrencisiyim. 
 
 <!---
 beyzakulakac/beyzakulakac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
