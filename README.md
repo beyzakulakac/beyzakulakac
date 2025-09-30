@@ -1,4 +1,4 @@
-merhaba ben beyza. elektronik ve haberleşme 2. sınıf öğrencisiyim. 
+Bu repo ilk uzun dönem stajımda yaptığım işlemlere aittir.
 
 <!---
 beyzakulakac/beyzakulakac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
